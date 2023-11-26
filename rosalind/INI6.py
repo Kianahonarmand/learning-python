@@ -12,7 +12,8 @@ word_counts = {}
    print(word_counts)
  for key, value in dict .items(word_counts):
       print(key, value)
-      When 1
+
+When 1
 I 2
 find 1
 myself 1
